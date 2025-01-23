@@ -29,5 +29,5 @@
 
 ---
 
-[website]: https://franjcf.github.io/
-[linkedin]: https://www.linkedin.com/in/francisco-jose-carrillo/
+[website]: https://afinn2.github.io/
+[linkedin]: https://www.linkedin.com/in/aidan-finn/

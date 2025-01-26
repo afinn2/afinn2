@@ -1,9 +1,12 @@
 ### Hi there, I'm Aidan
+- I am a Senior at Notre Dame studying Classics with minors in Data Science and Philosophy of Science
+- I co-founed a Cincinnati-centered virtual near-peer tutoring program called Tutor Teens that has, to date, provide over 5,000 hours of free tutoring
+- I was honored with the 2021 US Presidential Scholarship by the US Department of Education
 
+## I'm pretty new to this Data Science thing but have picked up a few skills:
 
-## I'm...
-
-- Cool things about me here
+- Beginner Python and Excel knowledge
+- ArcGIS and Gephi experience
 
 ### Languages and Tools:
 

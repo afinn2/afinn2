@@ -22,9 +22,8 @@
 - None yet!
 <!-- BLOG-POST-LIST:END -->
 
-### Connect with me:
+### Reach out to me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [Email](mailto:afinn2@nd.edu)
 
 
@@ -33,4 +32,3 @@
 ---
 
 [website]: https://afinn2.github.io/
-[linkedin]: https://www.linkedin.com/in/aidan-finn/

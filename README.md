@@ -8,6 +8,11 @@
 - Beginner Python and Excel knowledge
 - ArcGIS and Gephi experience
 
+## This semester, I'd like to learn:
+- How to make a github profile :)
+- The fundamentals of Data Science so I can know what I don't know!
+- What I can do with a Data Science profession
+
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />

@@ -17,18 +17,13 @@
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-### Here is my project portfolio:
-- README.md
-- https://github.com/afinn2/Finn-Data-Science-Portfolio/tree/main/basic_streamlit_app
   
 <br />
-<br />
-
 
 ### 📕 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
-- None yet!
+- https://github.com/afinn2/Finn-Data-Science-Portfolio/tree/main/basic_streamlit_app
 <!-- BLOG-POST-LIST:END -->
 
 ### Reach out to me:

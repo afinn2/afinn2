@@ -19,6 +19,7 @@
 
 ### Here is my project portfolio:
 - README.md
+- https://github.com/afinn2/Finn-Data-Science-Portfolio/tree/main/basic_streamlit_app
   
 <br />
 <br />

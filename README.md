@@ -29,7 +29,15 @@
 ### 📕 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
+*Basic Streamlit App*
 - https://github.com/afinn2/Finn-Data-Science-Portfolio/tree/main/basic_streamlit_app
+*Tidy Data Project*
+- https://github.com/afinn2/Finn-Data-Science-Portfolio/tree/main/TidyData_Project
+*Supervised Machine Learning Project*
+- https://github.com/afinn2/Finn-Data-Science-Portfolio/tree/main/MLStreamlitApp
+*Unsupervised Machine Learning Project*
+- https://github.com/afinn2/Finn-Data-Science-Portfolio/tree/main/FinalProject
+
 <!-- BLOG-POST-LIST:END -->
 
 ### Reach out to me:

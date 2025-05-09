@@ -3,6 +3,12 @@
 - I co-founed a Cincinnati-centered virtual near-peer tutoring program called Tutor Teens that has, to date, provide over 5,000 hours of free tutoring
 - I was honored with the 2021 US Presidential Scholarship by the US Department of Education
 
+*Some of my experiences:*
+- Co-founder of a virtual tutoring country called "Tutor Teens" that was recently (Spring 2025) acquired by a larger non-profit
+- Research intern at the Lucy Institute for Data and Society
+- Brand Analyst Intern at Brandrank.ai
+- Long-time summer camp counselor
+
 ## I'm pretty new to this Data Science thing but have picked up a few skills:
 
 - Beginner Python and Excel knowledge
